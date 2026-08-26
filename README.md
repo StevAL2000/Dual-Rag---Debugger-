@@ -17,7 +17,7 @@
 
 [![Estado](https://img.shields.io/badge/estado-activo-brightgreen)](#)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](#requisitos)
-[![Benchmark](https://img.shields.io/badge/benchmark-docs%2Fbenchmark.md-orange)](docs/benchmark.md)
+[![Benchmark](https://img.shields.io/badge/benchmark-docs%2Fbenchmark.md-orange)](benchmark.md)
 
 **Análisis frío de capacidades (lenguajes, scores, límites):** → **[docs/benchmark.md](docs/benchmark.md)**
 
