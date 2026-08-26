@@ -278,7 +278,7 @@ dual_rag_debugger/          # o raíz del repo según tu layout
 
 ## Roadmap (honesto)
 
-Ver también [STRATEGY_GOD_DEBUGGER.md](STRATEGY_GOD_DEBUGGER.md) y [benchmark.md](docs/benchmark.md).
+Ver también [benchmark.md](docs/benchmark.md).
 
 - [x] Grafo multi-lang + anti-alucinación  
 - [x] L1/L2 negocio + index incremental  
